@@ -1,0 +1,4762 @@
+{
+  "infractiuni": [
+    {
+      "art": "236",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "236",
+      "alin": "2",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "237",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "237",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "238",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "238",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "239",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "239",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "239¹",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "239¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "239¹",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "239²",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "240",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "240",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "240",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "241",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 2350 u.c. sau muncă neremunerată 200 ore"
+    },
+    {
+      "art": "241",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "amendă 3350 u.c. sau muncă neremunerată 240 ore"
+    },
+    {
+      "art": "241¹",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 1500 u.c."
+    },
+    {
+      "art": "241¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "242",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "242¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "242¹",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "242²",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 4350 u.c."
+    },
+    {
+      "art": "242²",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "242³",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 4000 u.c."
+    },
+    {
+      "art": "242³",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "242³",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "243",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "243",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "243",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "244",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "244",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "244",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "244",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "244",
+      "alin": "5",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "244¹",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 9000 u.c. sau muncă neremunerată 240 ore"
+    },
+    {
+      "art": "244¹",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "244²",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "244³",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "245",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "245",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "245¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "245¹",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "245²",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "245²",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "245²",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "245³",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "245³",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "245⁴",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "245⁴",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "245⁵",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 3350 u.c."
+    },
+    {
+      "art": "245⁵",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "245⁶",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 2350 u.c."
+    },
+    {
+      "art": "245⁶",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "245⁸",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 2350 u.c."
+    },
+    {
+      "art": "245⁸",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "245⁹",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 3350 u.c. sau muncă neremunerată 240 ore"
+    },
+    {
+      "art": "245⁹",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "245¹⁰",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "245¹⁰",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "245¹⁰",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "245¹¹",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "245¹¹",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "245¹²",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 2350 u.c."
+    },
+    {
+      "art": "245¹²",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "amendă 2350 u.c."
+    },
+    {
+      "art": "245¹²",
+      "alin": "3",
+      "cat": "U",
+      "pedeapsa_max": "amendă 2350 u.c."
+    },
+    {
+      "art": "245¹²",
+      "alin": "4",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "245¹³",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "245¹³",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "246",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "246¹",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "246²",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "246²",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "247",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "247",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "248",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "248",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "248",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "248",
+      "alin": "4",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "248",
+      "alin": "5",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "248",
+      "alin": "6",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "248",
+      "alin": "7",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "248¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "248¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "248¹",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "248¹",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "248²",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "249",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "2 ani 6 luni"
+    },
+    {
+      "art": "249",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "250",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 1350 u.c."
+    },
+    {
+      "art": "250",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "amendă 1850 u.c."
+    },
+    {
+      "art": "250¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "250¹",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "251",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "252",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "252",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "252",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "252",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "253",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "253",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "256",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 180 ore"
+    },
+    {
+      "art": "256",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "257",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 950 u.c."
+    },
+    {
+      "art": "257",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "amendă 550 u.c."
+    },
+    {
+      "art": "257",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "257",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "257¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "257¹",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "257¹",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "258",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "amendă 1350 u.c."
+    },
+    {
+      "art": "259",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "259",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "259",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "260",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "260¹",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "260²",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "260²",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "260²",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "260³",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "260³",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "260³",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "260⁴",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "260⁴",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "260⁴",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "260⁵",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "260⁶",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "260⁶",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "9 ani"
+    },
+    {
+      "art": "260⁶",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "260⁷",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "260⁸",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "260⁸",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "260⁸",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "260⁸",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "260⁸",
+      "alin": "5",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "261",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "261¹",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "261¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "261¹",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "262",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "263",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "263",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "264",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "264",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "264",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "264",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "264",
+      "alin": "5",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "264",
+      "alin": "6",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "264¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "264¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "264¹",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "264¹",
+      "alin": "4",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "264¹",
+      "alin": "5",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "264²",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "264²",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "265",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "266",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "267",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "268",
+      "alin": "-",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "269",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "270",
+      "alin": "-",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "271",
+      "alin": "-",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "272",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "272",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "275",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "275",
+      "alin": "2",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "275",
+      "alin": "3",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "276",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "276",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "278",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "278",
+      "alin": "2",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "278",
+      "alin": "3",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "278",
+      "alin": "4",
+      "cat": "EG",
+      "pedeapsa_max": "detențiune pe viață"
+    },
+    {
+      "art": "278¹",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "278¹",
+      "alin": "2",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "278¹",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "278¹",
+      "alin": "4",
+      "cat": "DG",
+      "pedeapsa_max": "18 ani"
+    },
+    {
+      "art": "278¹",
+      "alin": "5",
+      "cat": "EG",
+      "pedeapsa_max": "detențiune pe viață"
+    },
+    {
+      "art": "279",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "279¹",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "279¹",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "9 ani"
+    },
+    {
+      "art": "279¹",
+      "alin": "2¹",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "279¹",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "279¹",
+      "alin": "4",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "279²",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "279²",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "279²",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "279³",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "279³",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "280",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "280",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "280",
+      "alin": "3",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "281",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "281",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "282",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "282",
+      "alin": "1¹",
+      "cat": "G",
+      "pedeapsa_max": "9 ani"
+    },
+    {
+      "art": "283",
+      "alin": "-",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "284",
+      "alin": "1",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "284",
+      "alin": "2",
+      "cat": "EG",
+      "pedeapsa_max": "detențiune pe viață"
+    },
+    {
+      "art": "284",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "285",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "285",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "285",
+      "alin": "3",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "286",
+      "alin": "-",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "287",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "287",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "287",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "288",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "288",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "289",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "289",
+      "alin": "2",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "289¹",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "289¹",
+      "alin": "2",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "289¹",
+      "alin": "3",
+      "cat": "EG",
+      "pedeapsa_max": "detențiune pe viață"
+    },
+    {
+      "art": "289²",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "289²",
+      "alin": "2",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "289²",
+      "alin": "3",
+      "cat": "EG",
+      "pedeapsa_max": "detențiune pe viață"
+    },
+    {
+      "art": "289³",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "289³",
+      "alin": "2",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "289³",
+      "alin": "3",
+      "cat": "EG",
+      "pedeapsa_max": "detențiune pe viață"
+    },
+    {
+      "art": "289⁴",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 1000 u.c. sau muncă neremunerată 240 ore"
+    },
+    {
+      "art": "289⁴",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "289⁴",
+      "alin": "3",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "289⁴",
+      "alin": "4",
+      "cat": "EG",
+      "pedeapsa_max": "detențiune pe viață"
+    },
+    {
+      "art": "290",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "290",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "290",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "290",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "291",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "292",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "292",
+      "alin": "1¹",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "292",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "293",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "295",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "295",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "295",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "295",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "295",
+      "alin": "5",
+      "cat": "DG",
+      "pedeapsa_max": "17 ani"
+    },
+    {
+      "art": "295",
+      "alin": "6",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "295",
+      "alin": "7",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "295¹",
+      "alin": "1",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "295¹",
+      "alin": "2",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "295¹",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "295²",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "295²",
+      "alin": "2",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "295²",
+      "alin": "3",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "295²",
+      "alin": "4",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "295²",
+      "alin": "5",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "296",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "297",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "298",
+      "alin": "-",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "300",
+      "alin": "-",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "301",
+      "alin": "-",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "301¹",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "302",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "302",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "145",
+      "alin": "1",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "145",
+      "alin": "2",
+      "cat": "EG",
+      "pedeapsa_max": "detențiune pe viață"
+    },
+    {
+      "art": "146",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "147",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "148",
+      "alin": "-",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "149",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "149",
+      "alin": "1¹",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "149",
+      "alin": "1²",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "149",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "150",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "150",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "9 ani"
+    },
+    {
+      "art": "150",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "150¹",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "151",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "151",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "151",
+      "alin": "4",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "152",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "152",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "155",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "155",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "156",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "157",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "157",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "158",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "158",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "158",
+      "alin": "3",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "158",
+      "alin": "4",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "159",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "159",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "160",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 550 u.c."
+    },
+    {
+      "art": "160",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "160",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "161",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "162",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "162",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "163",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "163",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "164",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "164",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "164",
+      "alin": "3",
+      "cat": "DG",
+      "pedeapsa_max": "13 ani"
+    },
+    {
+      "art": "164¹",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "6 luni"
+    },
+    {
+      "art": "165",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "165",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "165",
+      "alin": "3",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "165¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "166",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "166",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "166",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "166¹",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "166¹",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "166¹",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "166¹",
+      "alin": "4",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "167",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "167",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "167¹",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "167¹",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "168",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "168",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "168",
+      "alin": "3",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "169",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "169",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "169¹",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "169¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "171",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "171",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "171",
+      "alin": "3",
+      "cat": "EG",
+      "pedeapsa_max": "detențiune pe viață"
+    },
+    {
+      "art": "172",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "172",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "172",
+      "alin": "3",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "173",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "173",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "174",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "174",
+      "alin": "1¹",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "175",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "175",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "175¹",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "175¹",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "176",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "176",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "176",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "176¹",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "176¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "176¹",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "176¹",
+      "alin": "5",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "177",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "177",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "177",
+      "alin": "3",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "177¹",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "178",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 180 ore"
+    },
+    {
+      "art": "178",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "179",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "179",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "179",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "180",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "amendă 650 u.c."
+    },
+    {
+      "art": "180¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "180¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "180¹",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "180²",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 850 u.c."
+    },
+    {
+      "art": "180²",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "amendă 1350 u.c."
+    },
+    {
+      "art": "181",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "181",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "181¹",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "181¹",
+      "alin": "1¹",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "181¹",
+      "alin": "1²",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "181¹",
+      "alin": "1³",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "181²",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "181²",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "181²",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "181²",
+      "alin": "4",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "181²",
+      "alin": "5",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "181³",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "181³",
+      "alin": "2",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "182",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "182",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "182",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "183",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "183",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "184",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "184",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "185",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "185¹",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "185¹",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "185¹",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "185²",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "185²",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "185²",
+      "alin": "3",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "185²",
+      "alin": "4",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "185²",
+      "alin": "5",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "185²",
+      "alin": "6",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "185²",
+      "alin": "7",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "185³",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "185⁴",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "185⁴",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "185⁴",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "186",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "186",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "186",
+      "alin": "2¹",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "186",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "186",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "186",
+      "alin": "5",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "187",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "187",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "187",
+      "alin": "2¹",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "187",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "187",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "187",
+      "alin": "5",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "188",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "188",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "188",
+      "alin": "2¹",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "188",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "188",
+      "alin": "4",
+      "cat": "DG",
+      "pedeapsa_max": "14 ani"
+    },
+    {
+      "art": "188",
+      "alin": "5",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "189",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "189",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "189",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "189",
+      "alin": "4",
+      "cat": "DG",
+      "pedeapsa_max": "13 ani"
+    },
+    {
+      "art": "189",
+      "alin": "5",
+      "cat": "DG",
+      "pedeapsa_max": "13 ani"
+    },
+    {
+      "art": "189",
+      "alin": "6",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "190",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "190",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "190",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "190",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "190",
+      "alin": "5",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "190",
+      "alin": "6",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "191",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "191",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "191",
+      "alin": "2¹",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "191",
+      "alin": "2²",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "191",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "191",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "191",
+      "alin": "5",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "192",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "192",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "192",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "192",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "192¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "192¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "192¹",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "192²",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "193",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "193",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "194",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 1850 u.c."
+    },
+    {
+      "art": "194",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "196",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "196",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "196",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "196",
+      "alin": "4",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "197",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "197",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "197",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "199",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 180 ore"
+    },
+    {
+      "art": "199",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "199",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "199¹",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "199¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "199¹",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "199²",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "199²",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "199³",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "199⁴",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 850 u.c."
+    },
+    {
+      "art": "199⁴",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "201",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "201¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "201¹",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "201¹",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "201¹",
+      "alin": "4",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "205",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "205",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "205",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "205",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "206",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "206",
+      "alin": "2",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "206",
+      "alin": "3",
+      "cat": "EG",
+      "pedeapsa_max": "detențiune pe viață"
+    },
+    {
+      "art": "206¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "207",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "207",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "208",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "208",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "208",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "208¹",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "208²",
+      "alin": "-",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "209",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "209",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "211",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "211",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "212",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "212",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "212",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "212",
+      "alin": "4",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "213",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "213¹",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "214",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "214",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "214¹",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 2350 u.c."
+    },
+    {
+      "art": "214¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "215",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "215",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "216",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 1150 u.c."
+    },
+    {
+      "art": "216",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "216",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "217",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 400 u.c."
+    },
+    {
+      "art": "217",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "217",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "217",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "217¹",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "217¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "217¹",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "217¹",
+      "alin": "4",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "217²",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "217³",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "217³",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "217³",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "217⁴",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "217⁴",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "217⁴",
+      "alin": "3",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "217⁵",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "217⁵",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "217⁶",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "217⁶",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "218",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "218",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "218",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "218",
+      "alin": "4",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "218",
+      "alin": "5",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "219",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "219",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "220",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "220",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "220",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "220¹",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "220¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "220¹",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "220¹",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "220¹",
+      "alin": "5",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "222",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "222",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "222¹",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "222¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "223",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "223",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "223",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "223",
+      "alin": "4",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "223¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "223¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "224",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "224",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "224",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "224",
+      "alin": "4",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "225",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "225",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "226",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "226",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "227",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "227",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "227¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "227¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "228",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "228",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "228¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "228¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "228¹",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "229",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "229",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "229",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "229¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "229¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "229¹",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "229²",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "229²",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "230",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "230",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "230",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "231",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "231",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "231",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "231",
+      "alin": "4",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "231¹",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "232",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "232",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "232",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "232",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "233",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "233",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "234",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "235",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "303",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "303",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "303",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "303¹",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "303¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "306",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "306",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "307",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "307",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "308",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "308",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "308",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "309",
+      "alin": "-",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "310",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "310",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "311",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "311",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "312",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "312",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "313",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "314",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "314",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "314",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "315",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "315",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "316",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "316",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "317",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "317",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "318",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "318",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "319",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "320",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "320",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "320¹",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "321",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "322",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "322",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "322",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "322",
+      "alin": "4",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "322",
+      "alin": "5",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "322",
+      "alin": "6",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "322",
+      "alin": "7",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "322",
+      "alin": "8",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "323",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "324",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 2000 u.c."
+    },
+    {
+      "art": "324",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "324",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "324",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "324",
+      "alin": "5",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "324¹",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "324¹",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "324¹",
+      "alin": "3",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "325",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 1500 u.c."
+    },
+    {
+      "art": "325",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "325",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "325",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "325",
+      "alin": "5",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "325¹",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "325¹",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "325¹",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "326",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "326",
+      "alin": "1¹",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "326",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "326",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "326¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "326¹",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "327",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "327",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "327",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "327",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "328",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "328",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "328",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "328",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "328",
+      "alin": "5",
+      "cat": "U",
+      "pedeapsa_max": "6 luni"
+    },
+    {
+      "art": "329",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "329",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "330¹",
+      "alin": "3",
+      "cat": "U",
+      "pedeapsa_max": "amendă 650 u.c."
+    },
+    {
+      "art": "330²",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "330²",
+      "alin": "2",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "332",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "332",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "332¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "332¹",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "332¹",
+      "alin": "3",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "332²",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "332²",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "332²",
+      "alin": "3",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "333",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 1850 u.c."
+    },
+    {
+      "art": "333",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "333",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "333",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "334",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "amendă 1850 u.c."
+    },
+    {
+      "art": "334",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "334",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "334",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "335",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "335",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "335",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "335",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "335¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "335¹",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "337",
+      "alin": "1",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "337",
+      "alin": "2",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "337",
+      "alin": "3",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "338",
+      "alin": "-",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "338¹",
+      "alin": "-",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "338²",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "338²",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "338³",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "338³",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "339",
+      "alin": "1",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "339",
+      "alin": "2",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "340",
+      "alin": "-",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "340¹",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "340¹",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "340¹",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "340¹",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "340¹",
+      "alin": "5",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "341",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "341",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "341",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "342",
+      "alin": "-",
+      "cat": "EG",
+      "pedeapsa_max": "detențiune pe viață"
+    },
+    {
+      "art": "343",
+      "alin": "-",
+      "cat": "DG",
+      "pedeapsa_max": "20 ani"
+    },
+    {
+      "art": "344",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "4 ani"
+    },
+    {
+      "art": "344",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "345",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "346",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "346¹",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "346¹",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "346²",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "347",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 200 ore"
+    },
+    {
+      "art": "347",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "347",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "349",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "349",
+      "alin": "1¹",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "349",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "351",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "352",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "352",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "352",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "352¹",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "352¹",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "352²",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "352³",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "352³",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "354",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "356",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "359",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "amendă 550 u.c."
+    },
+    {
+      "art": "360",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "360",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "361",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "361",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "6 ani"
+    },
+    {
+      "art": "361",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "362",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "362",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "362¹",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "362¹",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "362¹",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "363",
+      "alin": "-",
+      "cat": "U",
+      "pedeapsa_max": "muncă neremunerată 240 ore"
+    },
+    {
+      "art": "364",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "364",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "364",
+      "alin": "4",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "365",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "365",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "365",
+      "alin": "3",
+      "cat": "DG",
+      "pedeapsa_max": "13 ani"
+    },
+    {
+      "art": "367",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "367",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "368",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "368",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "369",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "369",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "369",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "370",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "370",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "370",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "371",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "371",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "371",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "372",
+      "alin": "-",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "373",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "373",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "373",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "374",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "374",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "375",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "375",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "376",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "376",
+      "alin": "2",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "376",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "5 ani"
+    },
+    {
+      "art": "377",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "378",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "378",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "379",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "379",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "12 ani"
+    },
+    {
+      "art": "380",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "2 ani"
+    },
+    {
+      "art": "380",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "381",
+      "alin": "1",
+      "cat": "U",
+      "pedeapsa_max": "1 an"
+    },
+    {
+      "art": "381",
+      "alin": "2",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "381",
+      "alin": "3",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "381",
+      "alin": "4",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "382",
+      "alin": "1",
+      "cat": "MPG",
+      "pedeapsa_max": "3 ani"
+    },
+    {
+      "art": "382",
+      "alin": "2",
+      "cat": "G",
+      "pedeapsa_max": "7 ani"
+    },
+    {
+      "art": "382",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "383",
+      "alin": "-",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "384",
+      "alin": "-",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    },
+    {
+      "art": "385",
+      "alin": "-",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "386",
+      "alin": "-",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "387",
+      "alin": "-",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "388",
+      "alin": "1",
+      "cat": "G",
+      "pedeapsa_max": "8 ani"
+    },
+    {
+      "art": "388",
+      "alin": "2",
+      "cat": "DG",
+      "pedeapsa_max": "15 ani"
+    },
+    {
+      "art": "388",
+      "alin": "3",
+      "cat": "G",
+      "pedeapsa_max": "10 ani"
+    }
+  ]
+}

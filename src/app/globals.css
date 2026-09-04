@@ -1,0 +1,148 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* High-End Institutional SaaS Design System */
+    --background: 210 40% 96.1%; /* #F1F5F9 */
+    --foreground: 215 25% 17%; /* #1E293B */
+
+    --card: 0 0% 100%;
+    --card-foreground: 215 25% 17%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 215 25% 17%;
+
+    /* Primary - Institutional Blue */
+    --primary: 215 25% 17%;
+    --primary-foreground: 210 40% 98%;
+
+    /* Secondary */
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 215 25% 17%;
+
+    /* Muted */
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215 16% 47%; /* #64748B */
+
+    /* Accent */
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 215 25% 17%;
+
+    /* Destructive */
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 210 40% 98%;
+
+    /* Success/Active - Emerald */
+    --success: 160 84% 39%; /* #059669 */
+    --success-bg: 152 81% 96%; /* #ECFDF5 */
+
+    --border: 214 32% 91%; /* #E2E8F0 */
+    --input: 214 32% 91%;
+    --ring: 215 25% 17%;
+
+    --radius: 0.375rem; /* rounded-md */
+
+    /*
+     * Paleta categorică a graficelor: opt nuanțe în ordine fixă, atribuite pe
+     * rând și niciodată reciclate. Ordinea e mecanismul de siguranță pentru
+     * daltonism, nu o alegere estetică — validată pe suprafața cardului (alb):
+     * cea mai slabă pereche vecină ΔE 9.1 (protanopie) și 19.6 la vedere
+     * normală. Aqua, galbenul și magenta stau sub 3:1 față de suprafață, de
+     * aceea graficul vine mereu însoțit de legendă și de tabelul cu aceleași
+     * cifre.
+     */
+    --chart-1: #2a78d6; /* albastru */
+    --chart-2: #eb6834; /* portocaliu */
+    --chart-3: #1baf7a; /* turcoaz */
+    --chart-4: #eda100; /* galben */
+    --chart-5: #e87ba4; /* magenta */
+    --chart-6: #008300; /* verde */
+    --chart-7: #4a3aa7; /* violet */
+    --chart-8: #e34948; /* roșu */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-[#F1F5F9] text-[#1E293B] antialiased;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+}
+
+/* Tabular numbers for precision */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum";
+}
+
+/* Data labels - institutional style */
+.data-label {
+  @apply uppercase text-[10px] font-bold tracking-widest text-[#64748B];
+}
+
+/* Data value - precision style */
+.data-value {
+  @apply text-[#1E293B] font-medium tabular-nums;
+}
+
+/* Institutional card */
+.card-institutional {
+  @apply bg-white border border-[#E2E8F0] rounded-md;
+}
+
+/* Custom scrollbar - minimal */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94A3B8;
+}
+
+/* Table hover state */
+.table-row-hover {
+  @apply transition-colors duration-150;
+}
+
+.table-row-hover:hover {
+  background-color: #F8FAFC;
+}
+
+/* Print styles */
+@page {
+  margin: 18mm 16mm;
+}
+
+@media print {
+  body {
+    background: white;
+    /* Documentul tipărit se citește pe hârtie: gri deschis dispare la imprimare. */
+    color: #000;
+  }
+  .no-print {
+    display: none !important;
+  }
+  /* Un rând de tabel tăiat între pagini e greu de citit într-un act oficial. */
+  tr {
+    break-inside: avoid;
+  }
+  thead {
+    display: table-header-group;
+  }
+}

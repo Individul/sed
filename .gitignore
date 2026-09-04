@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.env*.local
+.vercel
+*.tsbuildinfo
+playwright-report/
+test-results/
+e2e/.auth/
