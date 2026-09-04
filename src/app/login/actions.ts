@@ -23,7 +23,7 @@ export async function signInWithPassword(
 
   const { error } = await supabase.auth.signInWithPassword({ email, password });
   // Mesaj generic intenționat: nu dezvăluim ce email/username există.
-  if (error) return { error: "Date de autentificare incorecte." };
+  if (error) return { error: `Eroare: ${error.message} | URL detectat: ${process.env.NEXT_PUBLIC_SUPABASE_URL}` };
 
   redirect("/");
 }
