@@ -3,13 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev -p 3006",
-    "build": "opennextjs-cloudflare build --dangerouslyUseUnsupportedNextVersion",
+    "dev": "next dev",
+    "build": "next build",
+    "build:worker": "opennextjs-cloudflare build --dangerouslyUseUnsupportedNextVersion",
     "start": "next start",
-    "lint": "next lint",
-    "test": "vitest run",
-    "test:watch": "vitest",
-    "test:e2e": "playwright test"
+    "lint": "next lint"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.6.0",
